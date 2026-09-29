@@ -21,7 +21,7 @@ authors:
 version: v1.0.0
 date-released: "2026-09-28"
 license: MIT
-doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.23020391"
 abstract: >-
   Python notebook implementing the uniform windowed-linear speed analysis
   (bounded-logistic window finder + linear regression) for pole-to-pole,
