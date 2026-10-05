@@ -6,22 +6,22 @@ title: >-
   Analysis code: Quantitative spindle and chromosome dynamics in
   meiosis I, meiosis II and mitosis of Pyrrhocoris apterus
 authors:
-  - family-names: Lindner
-    given-names: Alexander
-    orcid: "https://orcid.org/0009-0001-9570-1621"
   - family-names: Fabig
     given-names: Gunar
     orcid: "https://orcid.org/0000-0003-3017-0978"
+  - family-names: Lindner
+    given-names: Alexander
+    orcid: "https://orcid.org/0009-0001-9570-1621"
   - family-names: Okafornta
     given-names: Chukwuebuka William
     orcid: "https://orcid.org/0000-0001-8094-1254"
   - family-names: Müller-Reichert
     given-names: Thomas
     orcid: "https://orcid.org/0000-0003-0203-1436"
-version: v1.0.0
-date-released: "2026-09-28"
+version: v1.0.1
+date-released: "2026-10-05"
 license: MIT
-doi: "10.5281/zenodo.23020391"
+doi: "10.5281/zenodo.23153660"
 abstract: >-
   Python notebook implementing the uniform windowed-linear speed analysis
   (bounded-logistic window finder + linear regression) for pole-to-pole,
